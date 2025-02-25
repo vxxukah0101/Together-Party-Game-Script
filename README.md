@@ -8,3 +8,6 @@ Press "P" Button To Teleport Your Character To The Door
 This is Open Source Project
 If have any bug. just fix your own.
 Thanks for using
+
+# Preview
+![BL8iWr4](https://i.imgur.com/BL8iWr4.png)
